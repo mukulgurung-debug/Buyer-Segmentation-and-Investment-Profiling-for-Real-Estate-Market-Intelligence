@@ -1,0 +1,28 @@
+{
+ "clients_raw": 2000,
+ "properties_raw": 10000,
+ "missing_client_cells": 0,
+ "dup_listing_ids": 0,
+ "unparsed_dob": 0,
+ "age_range": [
+  24.1,
+  93.9
+ ],
+ "clients_without_purchase": 0,
+ "silhouette_kmeans": 0.11649973370727304,
+ "silhouette_hier": 0.06548511904922537,
+ "ARI_kmeans_vs_hier": 0.27372992400390694,
+ "segment_sizes": {
+  "Younger Satisfied Buyers": 701,
+  "Senior Established Buyers": 689,
+  "Dissatisfied Mid-Life Buyers": 559,
+  "Multi-Unit Portfolio Buyers": 51
+ },
+ "persona_sizes": {
+  "Mainstream Buyer": 1564,
+  "Global Investor": 128,
+  "First-Time Buyer": 121,
+  "Corporate Buyer": 103,
+  "Luxury Investor": 84
+ }
+}
